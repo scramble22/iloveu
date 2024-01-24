@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+#translations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.language {
+    margin: 10px;
+}
